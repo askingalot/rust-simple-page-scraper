@@ -1,0 +1,9 @@
+[package]
+name = "page_scraper"
+version = "0.1.0"
+authors = ["Andy Collins <askingalot@gmail.com>"]
+
+[dependencies]
+hyper = "0.10"
+hyper-native-tls = "0.2.2"
+regex = "0.2"
